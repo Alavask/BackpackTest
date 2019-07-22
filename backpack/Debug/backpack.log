@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\алексей\source\repos\backpack\backpack\source.cpp(23): warning C4101: err: неиспользованная локальная переменная
+c:\users\алексей\source\repos\backpack\backpack\source.cpp(67): warning C4101: err: неиспользованная локальная переменная
+c:\users\алексей\source\repos\backpack\backpack\source.cpp(107): warning C4101: err: неиспользованная локальная переменная
+  backpack.vcxproj -> C:\Users\Алексей\source\repos\backpack\Debug\backpack.exe
